@@ -1,1 +1,2 @@
 hi iam git actions leaner.
+aws to azure
